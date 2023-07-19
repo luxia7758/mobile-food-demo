@@ -1,0 +1,7 @@
+server:
+  port: 5566
+
+
+springdoc:
+  swagger-ui:
+    enabled: true
