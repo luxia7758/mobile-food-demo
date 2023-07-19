@@ -13,6 +13,7 @@ HELP.md
 .sts4-cache
 
 ### IntelliJ IDEA ###
+/.idea
 .idea
 *.iws
 *.iml
@@ -46,3 +47,4 @@ __pycache__
 
 **/log/*
 **/exec/*.java
+
